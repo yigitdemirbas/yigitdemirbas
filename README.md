@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yigit-demirbas/](https://www.linkedin.com/in/yigit-demirbas/)
+- 👨‍💻 All of my projects are available at [my LinkedIn account](https://www.linkedin.com/in/yigit-demirbas/)
 
 - 📫 How to reach me **demirbasyigit@gmail.com**
 
