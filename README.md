@@ -95,15 +95,16 @@ account](https://www.linkedin.com/in/yigit-demirbas/) - 📫 How to reach me **d
 
 <h3 align="left">Support:</h3>
 <div>
-  <a href="https://www.buymeacoffee.com/yigitdemirbas">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yigitdemirbas"
-  /></a>
+  
 </div>
-
 <table>
   <tr style="background-color: transparent; border: none">
     <td style="padding: 0; border: none; padding-bottom: 1rem">
-      <p></p>
+      <p>
+        <a href="https://www.buymeacoffee.com/yigitdemirbas">
+          <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yigitdemirbas"
+        /></a>
+      </p>
     </td>
   </tr>
 </table>
