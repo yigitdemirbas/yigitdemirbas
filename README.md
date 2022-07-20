@@ -25,9 +25,9 @@
 <h3 align="left">Support:</h3>
 <table>
 <tr style="background-color: transparent; border: none;"><td style="padding: 0; border: none; padding-bottom: 1rem;"><p><a href="https://www.buymeacoffee.com/yigitdemirbas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yigitdemirbas" /></a></p></td></tr>
-<tr style="background-color: transparent; border: none;"><td style="padding: 0; border: none;"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yigitdemirbas&show_icons=true&locale=en&layout=compact" alt="yigitdemirbas" /></p></td></tr>
 </table>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yigitdemirbas&show_icons=true&locale=en&layout=compact" alt="yigitdemirbas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yigitdemirbas&show_icons=true&locale=en" alt="yigitdemirbas" /></p>
 
