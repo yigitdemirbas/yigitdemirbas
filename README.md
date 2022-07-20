@@ -9,7 +9,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yigitdemirbas&label=Profile%20views&color=0e75b6&style=flat" alt="yigitdemirbas" /></p>
 
-- 🔭 I’m currently working on [ApTap](https://www.aptap.co.uk/) - 🌱 I’m currently learning **DevOps** - 👨‍💻 All of my projects are available at [my LinkedIn
+- 🔭 I’m currently working on [ApTap](https://www.aptap.co.uk/)
+- 🌱 I’m currently learning **DevOps** 
+- 👨‍💻 All of my projects are available at [my LinkedIn
 account](https://www.linkedin.com/in/yigit-demirbas/) - 📫 How to reach me **demirbasyigit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
