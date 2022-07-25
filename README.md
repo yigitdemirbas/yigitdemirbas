@@ -99,6 +99,8 @@ account](https://www.linkedin.com/in/yigit-demirbas/) - 📫 How to reach me **d
 <div>
   
 </div>
+
+<!--
 <table>
   <tr style="background-color: transparent; border: none">
     <td style="padding: 0; border: none; padding-bottom: 1rem">
@@ -110,6 +112,7 @@ account](https://www.linkedin.com/in/yigit-demirbas/) - 📫 How to reach me **d
     </td>
   </tr>
 </table>
+-->
 
 <p>
   <img
