@@ -11,8 +11,8 @@
 
 - 🔭 I’m currently working on [ApTap](https://www.aptap.co.uk/)
 - 🌱 I’m currently learning **DevOps** 
-- 👨‍💻 All of my projects are available at [my LinkedIn
-account](https://www.linkedin.com/in/yigit-demirbas/) - 📫 How to reach me **demirbasyigit@gmail.com**
+- 👨‍💻 All of my projects are available at [my LinkedIn account](https://www.linkedin.com/in/yigit-demirbas/)
+- 📫 How to reach me **demirbasyigit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
